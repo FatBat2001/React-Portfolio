@@ -8,16 +8,10 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple"> Adham Khaled </span>
-            from <span className="purple"> Giza, Egypt.</span>
-            <br />
-            I am currently employed as a software R & D Engineer at AGI.
-            <br />
-            I am going to graduate with a CS degree from Helwan University This
-            semster
-            <br />
-            <br />
-            Apart from coding I'm a hardcore gamer if you know you know 💀💀
+            I'm Adham Khaled,<br/><br/>
+Based in Giza, Egypt. I currently work as a Software Engineer at AGI and hold a Bachelor's degree in Computer Science from Helwan University.<br></br>
+I am passionate about software development and technology, with a strong foundation in computer science principles. In my free time,
+I look forward to connecting with fellow professionals and exploring opportunities for collaboration and growth in the tech industry.
           </p>
         </blockquote>
       </Card.Body>
